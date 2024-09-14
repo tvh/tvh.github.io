@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:
-email: tvh@tvholtz.de
+title: Timo von Holtz
+email: tvh@tvholtz.net
 github_username: tvh
 minimal_mistakes_skin: dirt
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -54,12 +54,9 @@ plugins:
 author:
   name   : "Timo von Holtz"
   avatar : "/assets/images/bio-photo.jpg"
-  location: "Freiburg, Germany"
+  location: "Houston, TX"
 #  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tvholtz.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tvh"
